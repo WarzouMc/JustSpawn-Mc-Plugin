@@ -1,0 +1,2 @@
++Custom fireworks option when connecting and/or executing the command /spawn
++GameMode option when connecting
